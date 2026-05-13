@@ -1,16 +1,35 @@
-## Hi there 👋
+<h1 align="center">Olá!👋, eu sou a Maira!</h1>
 
-<!--
-**ribeiromaira884-rgb/ribeiromaira884-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  💻 Cursando Técnico em Desenvolvimento de Sistemas - SENAI <br>
+  👩🏼‍💻 Desenvolvendo porjetos em Python | Portugol | PHP
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 Sobre mim
+
+- 🎯 Focado em desenvolvimento FullStack
+
+---
+
+### 🤖 Tecnologias que uso
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,vscode,windows,linux,github,html">
+</p>
+
+---
+
+### 📈 Estatísticas
+
+<p align="center"> 
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ribeiromaira884-rgb&show_icons=true&theme=tokyonight">
+  <img height="150" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ribeiromaira884-rgb&layout=compact&theme=tokyonight">
+</p>
+
+---
+
+### 📮 Contato
+
+<a href="mailto:ribeiromaira884@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-thebadge&logo=gmail&logoColor=white&" target="_blank"></a>
